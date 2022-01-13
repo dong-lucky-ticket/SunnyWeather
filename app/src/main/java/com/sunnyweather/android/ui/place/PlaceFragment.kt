@@ -11,11 +11,9 @@ import androidx.core.widget.addTextChangedListener
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
-import androidx.lifecycle.ViewModelProviders
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.sunnyweather.android.MainActivity
 import com.sunnyweather.android.R
-import com.sunnyweather.android.logic.Repository
 import com.sunnyweather.android.ui.weather.WeatherActivity
 import kotlinx.android.synthetic.main.fragment_place.*
 
